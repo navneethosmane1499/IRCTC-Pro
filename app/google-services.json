@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "384780679096",
+    "firebase_url": "https://irctc-pro.firebaseio.com",
+    "project_id": "irctc-pro",
+    "storage_bucket": "irctc-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384780679096:android:993dc96dcc1b819eef414d",
+        "android_client_info": {
+          "package_name": "com.example.irctcpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384780679096-b1sbbusuhr6faa9p1geudd4m10ir3sst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.irctcpro",
+            "certificate_hash": "75b833293f1448605d648cfdf31e7e86782480ac"
+          }
+        },
+        {
+          "client_id": "384780679096-l1b58lqflh74m9ipjdpa3vbfkdrenmpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.irctcpro",
+            "certificate_hash": "182623af411917c2279298ab2bba661cfa30c7b0"
+          }
+        },
+        {
+          "client_id": "384780679096-cr6omureaq8ngbtd34q64i31fl019r64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOhr-dOFNpNAEr-e5lEG3KlpgUDY-vMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384780679096-cr6omureaq8ngbtd34q64i31fl019r64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

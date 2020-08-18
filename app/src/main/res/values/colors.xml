@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#181818</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="darkGreen_Starbucks">#036635</color>
+    <color name="brightGreen">#25D366</color>
+</resources>
